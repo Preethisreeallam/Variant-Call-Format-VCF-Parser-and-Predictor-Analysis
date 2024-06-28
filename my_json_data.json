@@ -1,0 +1,273 @@
+[
+  {
+    "ALT": "G",
+    "CHROM": "4",
+    "FILTER": "PASS",
+    "ID": ".",
+    "INFO": {
+      "AC": 1,
+      "AF": 0.167,
+      "AN": 6,
+      "ANNOVAR_DATE": "2018-04-16",
+      "BaseQRankSum": -2.542,
+      "CADD13_PHRED": 2.741,
+      "CADD13_RawScore": 0.015973,
+      "ClippingRankSum": 0,
+      "DP": 180,
+      "Eigen": -0.3239,
+      "ExcessHet": 3.0103,
+      "FS": 0,
+      "Func.ensGene": "intergenic",
+      "Func.refGene": "intergenic",
+      "Gene.ensGene": "ENSG00000109471,ENSG00000138684",
+      "Gene.refGene": "IL2,IL21",
+      "GeneDetail.ensGene": "dist=38306,dist=117597",
+      "GeneDetail.refGene": "dist=38536,dist=117597",
+      "MLEAC": 1,
+      "MLEAF": 0.167,
+      "MQ": 52.77,
+      "MQRankSum": -4.631,
+      "QD": 0.39,
+      "ReadPosRankSum": 1.45,
+      "SOR": 0.758,
+      "VQSLOD": -8.209,
+      "culprit": "MQ",
+      "cytoBand": "4q27",
+      "gnomAD_genome_AFR": 0.0001,
+      "gnomAD_genome_ALL": 0.0003,
+      "gnomAD_genome_AMR": 0,
+      "gnomAD_genome_ASJ": 0,
+      "gnomAD_genome_EAS": 0.0007,
+      "gnomAD_genome_FIN": 0.0009,
+      "gnomAD_genome_NFE": 0.0002,
+      "gnomAD_genome_OTH": 0.0011
+    },
+    "POS": 123416186,
+    "QUAL": 23.25,
+    "REF": "A",
+    "SAMPLE": {
+      "XG102": {
+        "AD": "51,8",
+        "DP": "59",
+        "GQ": "32",
+        "GT": "0/1",
+        "PL": "32,0,1388"
+      },
+      "XG103": {
+        "AD": "47,0",
+        "DP": "47",
+        "GQ": "99",
+        "GT": "0/0",
+        "PL": "0,114,1353"
+      },
+      "XG104": {
+        "AD": "74,0",
+        "DP": "74",
+        "GQ": "51",
+        "GT": "0/0",
+        "PL": "0,51,1827"
+      },
+      "XG202": {
+        "AD": "51,8",
+        "DP": "59",
+        "GQ": "32",
+        "GT": "0/1",
+        "PL": "32,0,1388"
+      },
+      "XG203": {
+        "AD": "47,0",
+        "DP": "47",
+        "GQ": "99",
+        "GT": "0/0",
+        "PL": "0,114,1353"
+      },
+      "XG204": {
+        "AD": "74,0",
+        "DP": "74",
+        "GQ": "51",
+        "GT": "0/0",
+        "PL": "0,51,1827"
+      },
+      "XG302": {
+        "AD": "51,8",
+        "DP": "59",
+        "GQ": "32",
+        "GT": "0/1",
+        "PL": "32,0,1388"
+      },
+      "XG303": {
+        "AD": "47,0",
+        "DP": "47",
+        "GQ": "99",
+        "GT": "0/0",
+        "PL": "0,114,1353"
+      },
+      "XG304": {
+        "AD": "74,0",
+        "DP": "74",
+        "GQ": "51",
+        "GT": "0/0",
+        "PL": "0,51,1827"
+      },
+      "XG402": {
+        "AD": "51,8",
+        "DP": "59",
+        "GQ": "32",
+        "GT": "0/1",
+        "PL": "32,0,1388"
+      },
+      "XG403": {
+        "AD": "47,0",
+        "DP": "47",
+        "GQ": "99",
+        "GT": "0/0",
+        "PL": "0,114,1353"
+      },
+      "XG404": {
+        "AD": "74,0",
+        "DP": "74",
+        "GQ": "51",
+        "GT": "0/0",
+        "PL": "0,51,1827"
+      }
+    }
+  },
+  {
+    "ALT": "C",
+    "CHROM": "12",
+    "FILTER": "PASS",
+    "ID": "rs10746177",
+    "INFO": {
+      "1000g2015aug_afr": 0.9992,
+      "1000g2015aug_all": 0.9998,
+      "1000g2015aug_amr": 1,
+      "1000g2015aug_eur": 1,
+      "1000g2015aug_sas": 1,
+      "AC": 6,
+      "AF": 1.0,
+      "AN": 6,
+      "ANNOVAR_DATE": "2018-04-16",
+      "CADD13_PHRED": 1.718,
+      "CADD13_RawScore": -0.101662,
+      "DP": 185,
+      "Eigen": -0.473,
+      "ExcessHet": 3.0103,
+      "FS": 0,
+      "Func.ensGene": "intronic",
+      "Func.refGene": "intergenic",
+      "Gene.ensGene": "ENSG00000111058",
+      "Gene.refGene": "LIN7A,ACSS3",
+      "GeneDetail.refGene": "dist=112857,dist=27258",
+      "Kaviar_AC": 24814,
+      "Kaviar_AF": 0.953358,
+      "Kaviar_AN": 26028,
+      "MLEAC": 6,
+      "MLEAF": 1.0,
+      "MQ": 59.95,
+      "QD": 27.3,
+      "SOR": 1.042,
+      "VQSLOD": 4.51,
+      "avsnp150": "rs10746177",
+      "culprit": "QD",
+      "cytoBand": "12q21.31",
+      "gnomAD_genome_AFR": 0.9961,
+      "gnomAD_genome_ALL": 0.9988,
+      "gnomAD_genome_AMR": 1,
+      "gnomAD_genome_ASJ": 1,
+      "gnomAD_genome_EAS": 1.0,
+      "gnomAD_genome_FIN": 1.0,
+      "gnomAD_genome_NFE": 0.9998,
+      "gnomAD_genome_OTH": 1.0,
+      "snp138NonFlagged": "rs10746177"
+    },
+    "POS": 81444551,
+    "QUAL": 5022.69,
+    "REF": "T",
+    "SAMPLE": {
+      "XG102": {
+        "AD": "0,72",
+        "DP": "72",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1905,214,0"
+      },
+      "XG103": {
+        "AD": "0,56",
+        "DP": "56",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1568,168,0"
+      },
+      "XG104": {
+        "AD": "0,56",
+        "DP": "56",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1563,168,0"
+      },
+      "XG202": {
+        "AD": "0,72",
+        "DP": "72",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1905,214,0"
+      },
+      "XG203": {
+        "AD": "0,56",
+        "DP": "56",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1568,168,0"
+      },
+      "XG204": {
+        "AD": "0,56",
+        "DP": "56",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1563,168,0"
+      },
+      "XG302": {
+        "AD": "0,72",
+        "DP": "72",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1905,214,0"
+      },
+      "XG303": {
+        "AD": "0,56",
+        "DP": "56",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1568,168,0"
+      },
+      "XG304": {
+        "AD": "0,56",
+        "DP": "56",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1563,168,0"
+      },
+      "XG402": {
+        "AD": "0,72",
+        "DP": "72",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1905,214,0"
+      },
+      "XG403": {
+        "AD": "0,56",
+        "DP": "56",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1568,168,0"
+      },
+      "XG404": {
+        "AD": "0,56",
+        "DP": "56",
+        "GQ": "99",
+        "GT": "1/1",
+        "PL": "1563,168,0"
+      }
+    }
+  }
+]
